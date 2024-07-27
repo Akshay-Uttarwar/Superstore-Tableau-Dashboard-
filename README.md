@@ -1,16 +1,4 @@
-I have made a tableau dashboard with a super store sales data set so provide one complete post and the insights for the same I wanted post in on LinkedIn so provide accordingly like convert below highlight points according to you and provide perfect post specific information which will help me grow my LinkedIn network and highlight my profile for data analytics 
 
-Key highlights
-
-Sales by category 
-Sales by sub category
-Sales trend per year
-Sales by segment 
-Total sales and profit and also return rate with a slicers and filter and metrics 
-
-ChatGPT
-Memory updated
-Certainly! Here's a LinkedIn post with specific information to highlight your Tableau dashboard project and showcase your data analytics skills:
 
 🚀 Excited to share my latest Tableau dashboard project using the Superstore Sales dataset! 📊
 
